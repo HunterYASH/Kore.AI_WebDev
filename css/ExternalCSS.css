@@ -1,0 +1,13 @@
+
+/* this is universal selector and apllies the style changes on every all the elements */
+*{
+    color:yellow;
+}
+/* Another one is type selector , which is apllied on all elements of a
+certain particular tag */
+p{
+    color:blueviolet;
+}
+h1{
+    color:aqua;
+}
