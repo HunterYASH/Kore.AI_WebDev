@@ -1,0 +1,2 @@
+This file is for testing purpose of functionality of Git..
+Wether all git commands are working or not..
